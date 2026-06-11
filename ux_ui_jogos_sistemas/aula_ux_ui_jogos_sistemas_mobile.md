@@ -147,16 +147,8 @@ Uma UI pode ser bonita e ainda produzir uma UX ruim.
 
 ## 3.1 Relacao Entre Os Conceitos
 
-```mermaid
-flowchart LR
-    A["Descobrir"] --> B["Definir"]
-    B --> C["Idear"]
-    C --> D["Prototipar"]
-    D --> E["Testar"]
-    E --> F["Implementar"]
-    F --> G["Medir"]
-    G --> A
-```
+<img width="605" height="66" alt="x" src="https://github.com/user-attachments/assets/fb8a91ff-9ecb-460a-bac2-3a10966ec3c6" />
+
 
     CX["CX: experiencia com a organizacao"]
     UX["UX: experiencia com o produto ou servico"]
