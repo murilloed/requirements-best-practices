@@ -8,7 +8,8 @@
 
 **Produto exemplo usado na aula:** um sistema chamado **Agenda Saúde**, uma aplicação web para clínicas gerenciarem agendamentos, pacientes, profissionais, prontuários simplificados e relatórios.
 
-![Ciclo de vida do desenvolvimento de software](assets/software_lifecycle.svg)
+<img width="960" height="540" alt="Processo-de-ciclo-de-vida-de-desenvolvimento-de-sistema-8" src="https://github.com/user-attachments/assets/368d0a44-5f4b-49f0-bf6d-f373c20fef6d" />
+
 
 ---
 
