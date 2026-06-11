@@ -655,7 +655,7 @@ Garantir que o software funcione com qualidade, segurança e desempenho aceitáv
 
 Disponibilizar o sistema para os usuários de forma controlada, segura e reversível.
 
-![Pipeline CI/CD](assets/cicd_pipeline.svg)
+<img width="3777" height="2859" alt="cii" src="https://github.com/user-attachments/assets/46c41437-b98b-462b-aee4-028b1b971375" />
 
 ## Como executar
 
