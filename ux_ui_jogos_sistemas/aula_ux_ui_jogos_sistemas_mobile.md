@@ -305,6 +305,43 @@ Niveis:
 | Alta | visual proximo do produto | validar interacao e aparencia |
 | Funcional | codigo ou motor real | validar comportamento e desempenho |
 
+### 4.5.1 - Diferença de Wireframe - Mockup - Protótipo
+
+1. Wireframe (Esqueleto)O que é: Um rascunho em preto e branco que define a estrutura e o layout.Foco: Hierarquia das informações, navegação e usabilidade básica. Não usa cores reais ou imagens.Objetivo: Decidir rapidamente onde os botões e textos ficarão, economizando tempo antes de gastar com design visual.
+
+<img width="259" height="195" alt="image" src="https://github.com/user-attachments/assets/5bb6a786-57d9-424e-ad39-45029e246f2c" />
+
+<img width="1560" height="1248" alt="image" src="https://github.com/user-attachments/assets/49db81c6-9245-414f-a592-0543a2d43b8f" />
+
+<img width="740" height="740" alt="image" src="https://github.com/user-attachments/assets/629dc810-2fe9-47be-9cb6-4f24ceeb8fd4" />
+
+
+3. Mockup (Aparência)O que é: Uma representação estática do design final.Foco: Identidade visual, incluindo cores, tipografia, ícones e imagens.Objetivo: Mostrar exatamente como o produto vai ficar visualmente para aprovação, mas não é clicável.
+
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/0f7e2c24-af13-4811-9f1b-4f5a1c2d1d8a" />
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/491a3adc-e012-451b-a08f-db54712a93a0" />
+
+
+5. Protótipo (Simulação)O que é: Um modelo altamente realista e interativo do produto.Foco: Simular a experiência real do usuário (UX).Objetivo: Testar se os menus funcionam, se a transição entre telas faz sentido e coletar feedback antes de programar de fato
+
+<img width="1450" height="958" alt="image" src="https://github.com/user-attachments/assets/bd02e861-59cc-4cd8-a9c9-90dc9f5173a0" />
+
+6. Draft: Na engenharia de software, o termo draft (que em português significa rascunho ou esboço) refere-se à versão inicial, provisória ou incompleta de um código, design de sistema ou documentação. O objetivo principal do draft é estruturar as ideias iniciais para validação, revisão ou testes antes da versão final ir para produção.
+
+6.1 Principais usos no desenvolvimento de softwareDraft de Código (Code Draft): Uma versão preliminar de uma funcionalidade. Geralmente é criada rapidamente para testar se uma lógica funciona ou para compartilhar com a equipe em um pull request (PR) inicial, mesmo que não esteja totalmente otimizada ou com todos os tratamentos de erro.
+
+6.2 Design ou Arquitetura Draft: Diagramas de arquitetura, fluxogramas ou modelos de banco de dados iniciais. Servem para discutir a estrutura do sistema com outros desenvolvedores e stakeholders antes da implementação real.Documentação e Especificação (Draft Specs): Documentos como RFCs (Request for Comments) ou especificações técnicas informais que detalham como um software deve funcionar, permitindo que a equipe colabore e refine os requisitos.
+
+6.3 Diferença entre "Draft" e "Protótipo"Embora sejam próximos, na prática eles têm propósitos diferentes:
+    
+    Draft (Esboço): Focado em documentar ou estruturar o raciocínio. Pode ser alterado facilmente e não costuma ser funcional por si só.
+    
+    Protótipo: Focado em experimentação funcional. É geralmente um código interativo ou uma tela clicável criada para validar uma ideia de negócio ou testar a usabilidade com usuários      reais.
+
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/1bd9c8c2-1b9c-4dee-b828-bd25b139e924" />
+
+
 ## 4.6 Testar
 
 Observar pessoas tentando realizar tarefas.
