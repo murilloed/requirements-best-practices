@@ -379,16 +379,8 @@ SDLC significa **Software Development Life Cycle**, ou ciclo de vida do desenvol
 
 Um modelo simplificado:
 
-```mermaid
-flowchart LR
-    P["Planejamento"] --> R["Requisitos"]
-    R --> D["Design"]
-    D --> DEV["Desenvolvimento"]
-    DEV --> T["Testes"]
-    T --> DEP["Implantacao"]
-    DEP --> M["Manutencao"]
-    M --> P
-```
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/c9885a2e-f86d-45ed-97ec-b4835bf3a44a" />
+
 
 UX/UI deve participar de todas essas etapas.
 
