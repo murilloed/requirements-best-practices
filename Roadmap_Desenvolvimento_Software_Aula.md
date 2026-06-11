@@ -60,7 +60,6 @@ A parte mais importante para a turma entender é esta: **software é um processo
 
 ## 3. Papéis envolvidos
 
-![Papéis no ciclo de software](assets/product_roles.svg)
 
 | Papel | Responsabilidade principal |
 |---|---|
