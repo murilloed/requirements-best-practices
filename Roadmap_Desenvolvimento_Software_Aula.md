@@ -395,7 +395,8 @@ UX não é apenas deixar bonito. UX é reduzir esforço, tornar fluxos compreens
 
 Definir a estrutura tecnológica que permitirá construir, escalar, proteger e manter o sistema.
 
-![Exemplo de arquitetura C4](assets/c4_architecture.svg)
+
+<img width="588" height="342" alt="C4" src="https://github.com/user-attachments/assets/02b5b24c-da83-449f-b566-25b6a0d120fe" />
 
 ## Como executar
 
