@@ -924,14 +924,8 @@ Ele precisa responder perguntas.
 
 ## 12.3 Fluxo De Criacao
 
-```mermaid
-flowchart LR
-    Q["Pergunta de negocio"] --> K["KPI"]
-    K --> D["Dados"]
-    D --> V["Visualizacao"]
-    V --> A["Acao esperada"]
-    A --> M["Medicao do resultado"]
-```
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/faca19f9-472a-400a-b5e6-1e04236c7803" />
+
 
 ## 12.4 Escolha De Graficos
 
@@ -993,13 +987,8 @@ Mobile possui:
 
 ## 13.3 Fluxo Mobile
 
-```mermaid
-flowchart TD
-    A["Entrada"] --> B["Identificar tarefa principal"]
-    B --> C["Executar com poucos passos"]
-    C --> D["Confirmar resultado"]
-    D --> E["Oferecer proxima acao"]
-```
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/4c2880ee-8c28-453c-85eb-6028c807787e" />
+
 
 ## 13.4 Estados Que Devem Ser Projetados
 
@@ -1069,15 +1058,8 @@ O HUD deve equilibrar:
 
 ## 14.3 Loop De Jogo
 
-```mermaid
-flowchart LR
-    A["Receber objetivo"] --> B["Tomar decisao"]
-    B --> C["Executar acao"]
-    C --> D["Receber feedback"]
-    D --> E["Ganhar ou perder recursos"]
-    E --> F["Aprender e ajustar estrategia"]
-    F --> A
-```
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/7d11a5dd-0cbe-4ad5-8b39-68b257beed7c" />
+
 
 ## 14.4 Feedback Em Jogos
 
@@ -1310,21 +1292,8 @@ Nao e apenas uma biblioteca de botoes.
 
 ## 18.2 Camadas
 
-```mermaid
-flowchart TB
-    P["Principios"]
-    T["Design tokens"]
-    C["Componentes"]
-    PAT["Padroes de composicao"]
-    TMP["Templates"]
-    PROD["Produtos"]
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/9f1819af-e693-45ac-b557-4e270618ac36" />
 
-    P --> T
-    T --> C
-    C --> PAT
-    PAT --> TMP
-    TMP --> PROD
-```
 
 ## 18.3 Design Tokens
 
@@ -1373,15 +1342,8 @@ Error, quando aplicavel
 
 ## 18.5 Integracao Design E Codigo
 
-```mermaid
-flowchart LR
-    FIG["Biblioteca no Figma"] --> TOK["Tokens"]
-    TOK --> CODE["Biblioteca de componentes"]
-    CODE --> DOC["Documentacao/Storybook"]
-    DOC --> APP["Aplicacoes"]
-    APP --> FEED["Feedback e metricas"]
-    FEED --> FIG
-```
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/1e9b90f2-87e3-4774-85a7-f6ace0523de9" />
+
 
 ## 18.6 Governanca
 
@@ -1496,23 +1458,8 @@ Ela e influenciada por:
 
 ## 20.3 Relacao Entre Marca E Produto
 
-```mermaid
-flowchart TB
-    PROM["Promessa da marca"]
-    VIS["Identidade visual"]
-    VOZ["Tom de voz"]
-    PROD["Produto e servico"]
-    SUP["Suporte"]
-    EXP["Experiencia percebida"]
-    REP["Reputacao"]
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/e6cba754-cd5c-4625-9d4f-4c35d937aed9" />
 
-    PROM --> EXP
-    VIS --> EXP
-    VOZ --> EXP
-    PROD --> EXP
-    SUP --> EXP
-    EXP --> REP
-```
 
 Se a marca promete simplicidade, mas o sistema e confuso, existe uma ruptura de experiencia.
 
